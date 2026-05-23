@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "title": "Neurobiologia wysiłku i regeneracja pracownika fizycznego",
+  "subtitle": "Mózg i ciało na budowie — co się dzieje w środku podczas ciężkiej pracy",
+  "topic_key": "mind",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Neurobiologia wysiłku i regeneracja pracownika fizycznego",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.136896+00:00",
+  "files": {
+    "audio": "episodes/10/audio.mp3",
+    "banner": "episodes/10/banner.png",
+    "short": "episodes/10/short.mp4"
+  }
+}

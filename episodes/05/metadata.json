@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "title": "Co jeść przed 8h pracy fizycznej",
+  "subtitle": "Paliwo dla ciała — co jeść żeby wytrzymać zmianę bez zjazdu energetycznego",
+  "topic_key": "fuel",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Co jeść przed 8h pracy fizycznej",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.024921+00:00",
+  "files": {
+    "audio": "episodes/05/audio.mp3",
+    "banner": "episodes/05/banner.png",
+    "short": "episodes/05/short.mp4"
+  }
+}

@@ -1,0 +1,4 @@
+logs/
+manifests/
+.DS_Store
+*.log

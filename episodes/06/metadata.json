@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "title": "Dlaczego sama woda w upale może zabić",
+  "subtitle": "Praca w upale i hiponatremia — błąd który popełniają wszyscy robotnicy",
+  "topic_key": "heat",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Dlaczego sama woda w upale może zabić",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.046390+00:00",
+  "files": {
+    "audio": "episodes/06/audio.mp3",
+    "banner": "episodes/06/banner.png",
+    "short": "episodes/06/short.mp4"
+  }
+}

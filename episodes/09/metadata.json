@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "title": "Matematyka fizjologii zamiast silnej woli",
+  "subtitle": "21-dniowy sprint — dlaczego konsekwencja bije motywację",
+  "topic_key": "sprint",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Matematyka fizjologii zamiast silnej woli",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.113473+00:00",
+  "files": {
+    "audio": "episodes/09/audio.mp3",
+    "banner": "episodes/09/banner.png",
+    "short": "episodes/09/short.mp4"
+  }
+}

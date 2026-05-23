@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "title": "Regeneracja po ciężkiej pracy fizycznej",
+  "subtitle": "Protokół wieczorny — jak naprawić ciało po 8 godzinach w terenie",
+  "topic_key": "recovery",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Regeneracja po ciężkiej pracy fizycznej",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.068656+00:00",
+  "files": {
+    "audio": "episodes/07/audio.mp3",
+    "banner": "episodes/07/banner.png",
+    "short": "episodes/07/short.mp4"
+  }
+}

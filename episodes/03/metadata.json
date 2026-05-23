@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "title": "Biologiczny rozruch dla pracowników fizycznych",
+  "subtitle": "10 minut ruchu zamiast kawy — jak aktywować ciało przed zmianą",
+  "topic_key": "movement",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Biologiczny rozruch dla pracowników fizycznych",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:52.977793+00:00",
+  "files": {
+    "audio": "episodes/03/audio.mp3",
+    "banner": "episodes/03/banner.png",
+    "short": "episodes/03/short.mp4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "title": "Woda rano zamiast kawy przed ciężką zmianą",
+  "subtitle": "500 ml przed pracą fizyczną zmienia wszystko",
+  "topic_key": "hydration",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Woda rano zamiast kawy przed ciężką zmianą",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:52.936556+00:00",
+  "files": {
+    "audio": "episodes/01/audio.mp3",
+    "banner": "episodes/01/banner.png",
+    "short": "episodes/01/short.mp4"
+  }
+}

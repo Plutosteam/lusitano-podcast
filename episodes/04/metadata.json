@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "title": "Jak oddech i zimno hartują organizm",
+  "subtitle": "Box breathing i zimna woda — układ nerwowy jako narzędzie pracownika",
+  "topic_key": "breath",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Jak oddech i zimno hartują organizm",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.002152+00:00",
+  "files": {
+    "audio": "episodes/04/audio.mp3",
+    "banner": "episodes/04/banner.png",
+    "short": "episodes/04/short.mp4"
+  }
+}

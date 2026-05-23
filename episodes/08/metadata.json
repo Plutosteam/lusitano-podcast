@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "title": "Biologia porannej energii i prawda o kawie",
+  "subtitle": "System zielony-żółty-czerwony — jak naprawdę działa twoja energia",
+  "topic_key": "readiness",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Biologia porannej energii i prawda o kawie",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:53.089982+00:00",
+  "files": {
+    "audio": "episodes/08/audio.mp3",
+    "banner": "episodes/08/banner.png",
+    "short": "episodes/08/short.mp4"
+  }
+}

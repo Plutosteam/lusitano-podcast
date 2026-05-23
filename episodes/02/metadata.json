@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "title": "Dlaczego pracownik fizyczny potrzebuje soli i ciemności",
+  "subtitle": "Elektrolity bez chemii — sól morska i sen jako narzędzia pracy",
+  "topic_key": "electrolyte",
+  "series": "Morning Energy Sprint",
+  "language": "pl",
+  "prompt": "Dlaczego pracownik fizyczny potrzebuje soli i ciemności",
+  "notebooklm_artifact_id": "imported",
+  "generated_at": "2026-05-23T11:01:52.955102+00:00",
+  "files": {
+    "audio": "episodes/02/audio.mp3",
+    "banner": "episodes/02/banner.png",
+    "short": "episodes/02/short.mp4"
+  }
+}
