@@ -6,7 +6,7 @@
   <channel>
     <title>Lusitano Morning Energy</title>
     <link>https://lusitanoretreat.com</link>
-    <atom:link href="https://plutosteam.github.io/lusitano-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
     <language>pl</language>
     <copyright>© Lusitano Retreat 2026</copyright>
     <description><![CDATA[Lusitano Morning Energy to podcast o tym, jak przeżyć i wygrać 8-godzinną
@@ -22,19 +22,19 @@ Portugal — eko-retreat dla tych, którzy budują inaczej.]]></itunes:summary>
       <itunes:name>Lusitano Retreat</itunes:name>
       <itunes:email>info@plutos.org.uk</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://plutosteam.github.io/lusitano-podcast/show-cover.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/show-cover.png"/>
     <itunes:category text="Health & Fitness">
       <itunes:category text="Fitness"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 23 May 2026 15:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:50:14 +0000</lastBuildDate>
     <item>
       <title>Woda rano zamiast kawy przed ciężką zmianą</title>
       <description><![CDATA[500 ml przed pracą fizyczną zmienia wszystko
 
 Woda rano zamiast kawy przed ciężką zmianą]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/01/audio.mp3" length="32666405" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/01/audio.mp3" length="32666405" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-1</guid>
       <pubDate>Sat, 23 May 2026 11:01:52 +0000</pubDate>
       <itunes:title>Woda rano zamiast kawy przed ciężką zmianą</itunes:title>
@@ -44,7 +44,7 @@ Woda rano zamiast kawy przed ciężką zmianą]]></description>
 Woda rano zamiast kawy przed ciężką zmianą]]></itunes:summary>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/01/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/01/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -52,7 +52,7 @@ Woda rano zamiast kawy przed ciężką zmianą]]></itunes:summary>
       <description><![CDATA[Elektrolity bez chemii — sól morska i sen jako narzędzia pracy
 
 Dlaczego pracownik fizyczny potrzebuje soli i ciemności]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/02/audio.mp3" length="28883503" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/02/audio.mp3" length="28883503" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-2</guid>
       <pubDate>Sat, 23 May 2026 11:01:52 +0000</pubDate>
       <itunes:title>Dlaczego pracownik fizyczny potrzebuje soli i ciemności</itunes:title>
@@ -62,7 +62,7 @@ Dlaczego pracownik fizyczny potrzebuje soli i ciemności]]></description>
 Dlaczego pracownik fizyczny potrzebuje soli i ciemności]]></itunes:summary>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/02/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/02/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -70,7 +70,7 @@ Dlaczego pracownik fizyczny potrzebuje soli i ciemności]]></itunes:summary>
       <description><![CDATA[10 minut ruchu zamiast kawy — jak aktywować ciało przed zmianą
 
 Biologiczny rozruch dla pracowników fizycznych]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/03/audio.mp3" length="60039540" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/03/audio.mp3" length="60039540" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-3</guid>
       <pubDate>Sat, 23 May 2026 11:01:52 +0000</pubDate>
       <itunes:title>Biologiczny rozruch dla pracowników fizycznych</itunes:title>
@@ -80,7 +80,7 @@ Biologiczny rozruch dla pracowników fizycznych]]></description>
 Biologiczny rozruch dla pracowników fizycznych]]></itunes:summary>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/03/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/03/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -88,7 +88,7 @@ Biologiczny rozruch dla pracowników fizycznych]]></itunes:summary>
       <description><![CDATA[Box breathing i zimna woda — układ nerwowy jako narzędzie pracownika
 
 Jak oddech i zimno hartują organizm]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/04/audio.mp3" length="22837874" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/04/audio.mp3" length="22837874" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-4</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Jak oddech i zimno hartują organizm</itunes:title>
@@ -98,7 +98,7 @@ Jak oddech i zimno hartują organizm]]></description>
 Jak oddech i zimno hartują organizm]]></itunes:summary>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/04/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/04/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -106,7 +106,7 @@ Jak oddech i zimno hartują organizm]]></itunes:summary>
       <description><![CDATA[Paliwo dla ciała — co jeść żeby wytrzymać zmianę bez zjazdu energetycznego
 
 Co jeść przed 8h pracy fizycznej]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/05/audio.mp3" length="57179579" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/05/audio.mp3" length="57179579" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-5</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Co jeść przed 8h pracy fizycznej</itunes:title>
@@ -116,7 +116,7 @@ Co jeść przed 8h pracy fizycznej]]></description>
 Co jeść przed 8h pracy fizycznej]]></itunes:summary>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/05/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/05/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -124,7 +124,7 @@ Co jeść przed 8h pracy fizycznej]]></itunes:summary>
       <description><![CDATA[Praca w upale i hiponatremia — błąd który popełniają wszyscy robotnicy
 
 Dlaczego sama woda w upale może zabić]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/06/audio.mp3" length="29712317" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/06/audio.mp3" length="29712317" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-6</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Dlaczego sama woda w upale może zabić</itunes:title>
@@ -134,7 +134,7 @@ Dlaczego sama woda w upale może zabić]]></description>
 Dlaczego sama woda w upale może zabić]]></itunes:summary>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/06/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/06/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -142,7 +142,7 @@ Dlaczego sama woda w upale może zabić]]></itunes:summary>
       <description><![CDATA[Protokół wieczorny — jak naprawić ciało po 8 godzinach w terenie
 
 Regeneracja po ciężkiej pracy fizycznej]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/07/audio.mp3" length="37754099" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/07/audio.mp3" length="37754099" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-7</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Regeneracja po ciężkiej pracy fizycznej</itunes:title>
@@ -152,7 +152,7 @@ Regeneracja po ciężkiej pracy fizycznej]]></description>
 Regeneracja po ciężkiej pracy fizycznej]]></itunes:summary>
       <itunes:episode>7</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/07/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/07/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -160,7 +160,7 @@ Regeneracja po ciężkiej pracy fizycznej]]></itunes:summary>
       <description><![CDATA[System zielony-żółty-czerwony — jak naprawdę działa twoja energia
 
 Biologia porannej energii i prawda o kawie]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/08/audio.mp3" length="47451898" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/08/audio.mp3" length="47451898" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-8</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Biologia porannej energii i prawda o kawie</itunes:title>
@@ -170,7 +170,7 @@ Biologia porannej energii i prawda o kawie]]></description>
 Biologia porannej energii i prawda o kawie]]></itunes:summary>
       <itunes:episode>8</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/08/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/08/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -178,7 +178,7 @@ Biologia porannej energii i prawda o kawie]]></itunes:summary>
       <description><![CDATA[21-dniowy sprint — dlaczego konsekwencja bije motywację
 
 Matematyka fizjologii zamiast silnej woli]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/09/audio.mp3" length="57530871" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/09/audio.mp3" length="57530871" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-9</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Matematyka fizjologii zamiast silnej woli</itunes:title>
@@ -188,7 +188,7 @@ Matematyka fizjologii zamiast silnej woli]]></description>
 Matematyka fizjologii zamiast silnej woli]]></itunes:summary>
       <itunes:episode>9</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/09/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/09/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
     <item>
@@ -196,7 +196,7 @@ Matematyka fizjologii zamiast silnej woli]]></itunes:summary>
       <description><![CDATA[Mózg i ciało na budowie — co się dzieje w środku podczas ciężkiej pracy
 
 Neurobiologia wysiłku i regeneracja pracownika fizycznego]]></description>
-      <enclosure url="https://plutosteam.github.io/lusitano-podcast/episodes/10/audio.mp3" length="54744915" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/10/audio.mp3" length="54744915" type="audio/mpeg"/>
       <guid isPermaLink="false">lusitano-ep-10</guid>
       <pubDate>Sat, 23 May 2026 11:01:53 +0000</pubDate>
       <itunes:title>Neurobiologia wysiłku i regeneracja pracownika fizycznego</itunes:title>
@@ -206,7 +206,7 @@ Neurobiologia wysiłku i regeneracja pracownika fizycznego]]></description>
 Neurobiologia wysiłku i regeneracja pracownika fizycznego]]></itunes:summary>
       <itunes:episode>10</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://plutosteam.github.io/lusitano-podcast/episodes/10/banner.png"/>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/10/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
   </channel>
