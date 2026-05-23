@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "title": "Farma w Portugalii za zero euro",
+  "subtitle": "Producenci, spółdzielnie i programy publiczne w Norte Portugal",
+  "topic_key": "fuel",
+  "series": "Braga Food & Plants Sprint",
+  "language": "pl",
+  "prompt": "Farma w Portugalii za zero euro",
+  "notebooklm_artifact_id": "imported-braga",
+  "generated_at": "2026-05-23T16:11:50Z",
+  "files": {
+    "audio": "episodes/15/audio.mp3",
+    "banner": "episodes/15/banner.png",
+    "short": null
+  }
+}

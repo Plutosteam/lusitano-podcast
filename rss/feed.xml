@@ -28,7 +28,7 @@ Portugal — eko-retreat dla tych, którzy budują inaczej.]]></itunes:summary>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 23 May 2026 16:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 16:12:24 +0000</lastBuildDate>
     <item>
       <title>Woda rano zamiast kawy przed ciężką zmianą</title>
       <description><![CDATA[500 ml przed pracą fizyczną zmienia wszystko
@@ -207,6 +207,60 @@ Neurobiologia wysiłku i regeneracja pracownika fizycznego]]></itunes:summary>
       <itunes:episode>10</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/10/banner.png"/>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>Budowa Lusitano Retreat za zero euro</title>
+      <description><![CDATA[Jak zbudować off-grid retreat bez kapitału
+
+Budowa Lusitano Retreat za zero euro]]></description>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/14/audio.mp3" length="41412876" type="audio/mpeg"/>
+      <guid isPermaLink="false">lusitano-ep-14</guid>
+      <pubDate>Sat, 23 May 2026 16:11:49 +0000</pubDate>
+      <itunes:title>Budowa Lusitano Retreat za zero euro</itunes:title>
+      <itunes:subtitle>Jak zbudować off-grid retreat bez kapitału</itunes:subtitle>
+      <itunes:summary><![CDATA[Jak zbudować off-grid retreat bez kapitału
+
+Budowa Lusitano Retreat za zero euro]]></itunes:summary>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/14/banner.png"/>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>Farma w Portugalii za zero euro</title>
+      <description><![CDATA[Producenci, spółdzielnie i programy publiczne w Norte Portugal
+
+Farma w Portugalii za zero euro]]></description>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/15/audio.mp3" length="34723067" type="audio/mpeg"/>
+      <guid isPermaLink="false">lusitano-ep-15</guid>
+      <pubDate>Sat, 23 May 2026 16:11:50 +0000</pubDate>
+      <itunes:title>Farma w Portugalii za zero euro</itunes:title>
+      <itunes:subtitle>Producenci, spółdzielnie i programy publiczne w Norte Portugal</itunes:subtitle>
+      <itunes:summary><![CDATA[Producenci, spółdzielnie i programy publiczne w Norte Portugal
+
+Farma w Portugalii za zero euro]]></itunes:summary>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/15/banner.png"/>
+      <itunes:duration>00:20:00</itunes:duration>
+    </item>
+    <item>
+      <title>Darmowe rośliny dla Lusitano Retreat w Bradze</title>
+      <description><![CDATA[Jak legalnie pozyskać drzewa, sadzonki i kompost w okolicach Bragi
+
+Darmowe rośliny dla Lusitano Retreat w Bradze]]></description>
+      <enclosure url="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/16/audio.mp3" length="3637999" type="audio/mpeg"/>
+      <guid isPermaLink="false">lusitano-ep-16</guid>
+      <pubDate>Sat, 23 May 2026 16:11:51 +0000</pubDate>
+      <itunes:title>Darmowe rośliny dla Lusitano Retreat w Bradze</itunes:title>
+      <itunes:subtitle>Jak legalnie pozyskać drzewa, sadzonki i kompost w okolicach Bragi</itunes:subtitle>
+      <itunes:summary><![CDATA[Jak legalnie pozyskać drzewa, sadzonki i kompost w okolicach Bragi
+
+Darmowe rośliny dla Lusitano Retreat w Bradze]]></itunes:summary>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/Plutosteam/lusitano-podcast/main/episodes/16/banner.png"/>
       <itunes:duration>00:20:00</itunes:duration>
     </item>
   </channel>
